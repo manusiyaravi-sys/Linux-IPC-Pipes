@@ -189,6 +189,7 @@ void client() {
 
     close(fifo_fd);
 }
+#output:
 <img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/8b37b941-49c5-4658-909f-6d465c35950e" />
 
 
