@@ -190,7 +190,7 @@ void client() {
     close(fifo_fd);
 }
 ```
-## OUTPUT
+output
 <img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/4990871b-5844-4c60-9bc8-0ef9df3edce5" />
 
 
