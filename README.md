@@ -193,8 +193,5 @@ void client() {
 ##output:
 <img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/c6d75c57-4418-48ff-a3e7-e551db4417fa" />
 
-
-
-
 # RESULT:
 The program is executed successfully.
