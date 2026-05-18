@@ -191,7 +191,7 @@ void client() {
 }
 ~~~
 ## OUTPUT
-<img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/e6920e81-8fbe-4c09-8e1a-8abf49cb0575" />
+<img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/a7e5f3ba-87cd-4ee4-986d-b4cb47157a33" />
 
 
 
