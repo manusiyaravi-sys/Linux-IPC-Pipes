@@ -102,7 +102,7 @@ void client(int wfd, int rfd) {
 ## OUTPUT
 <img width="1191" height="1162" alt="os-3(1)" src="https://github.com/user-attachments/assets/f7ac3e68-7b35-49ab-b019-ad008a6f5ffb" />
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
-```
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
@@ -189,9 +189,8 @@ void client() {
 
     close(fifo_fd);
 }
-```
-##output:
-<img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/c6d75c57-4418-48ff-a3e7-e551db4417fa" />
+<img width="1832" height="1202" alt="os-3(2)" src="https://github.com/user-attachments/assets/8b37b941-49c5-4658-909f-6d465c35950e" />
+
 
 # RESULT:
 The program is executed successfully.
